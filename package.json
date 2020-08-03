@@ -1,0 +1,30 @@
+{
+  "name": "taxformulas",
+  "version": "0.1.0",
+  "description": "Calculate taxes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradgessler/taxformulas.git"
+  },
+  "keywords": [
+    "Taxes",
+    "Income",
+    "Taxes",
+    "Tax",
+    "Calculator",
+    "Tax",
+    "Brackets",
+    "Income",
+    "Tax"
+  ],
+  "author": "Brad Gessler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradgessler/taxformulas/issues"
+  },
+  "homepage": "https://github.com/bradgessler/taxformulas#readme"
+}
