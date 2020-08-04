@@ -120,5 +120,5 @@ function TAX_TOTAL(table, income){
 }
 
 function TAX_EFFECTIVE_RATE(table, income){
-  return calculator(table).effectiveRate()
+  return calculator(table, income).effectiveRate()
 }
